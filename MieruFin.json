@@ -1,0 +1,18 @@
+{
+  "profiles": [
+    {
+      "name": "MiFin",
+      "servers": [
+        {
+          "name": "MiBip",
+          "type": "mieru",
+          "address": "78.17.84.157",
+          "port": 2020,
+          "username": "BipUp",
+          "password": "1qA2wS3eD",
+          "transport": "TCP"
+        }
+      ]
+    }
+  ]
+}
